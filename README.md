@@ -4,6 +4,7 @@
 ## 👤 Student Details
 
 **Name:** Satish Kumar
+**Reg No.= 25BAI11082**
 **Course:** CSE0001 – Digital Literacy
 **Branch:** B.Tech CSE (AI & ML)
 **University:** VIT Bhopal University
